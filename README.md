@@ -22,16 +22,3 @@ Hiring Hub is a full-stack web application designed to streamline the hiring pro
 **State Management:**
 - React Hooks (useState, useEffect)
 - localStorage (for user session persistence)
-
-## Features
-
-- 🏠 **Home Page** - Employee motivation and inspirational content
-- 👤 **User Authentication** - Login and registration for both job seekers and recruiters
-- 🔍 **Job Listings** - Browse and search available job opportunities
-- 💼 **Recruiter Dashboard** - Manage job postings, view applications, and communicate with candidates
-- 👨‍💻 **Job Seeker Dashboard** - Track applications, save jobs, and manage profile
-- 📚 **Career Tips** - Professional development articles and career guidance
-- 🏢 **Employers Directory** - Browse company profiles and information
-- 💪 **Employee Motivation** - Inspirational content and success stories
-- 🧭 **Navigation Bar** - Easy access to all platform features
-- 📄 **Footer** - Links and additional information
